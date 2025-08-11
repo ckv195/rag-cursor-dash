@@ -1,0 +1,11 @@
+id,text,metric,value,units,store,date,sample_size
+visitors_42_2025-01-06,Store 42 recorded 4,210 unique visitors on 2025-01-06.,visitors,4210,people,42,2025-01-06,4210
+visitors_42_2025-01-07,Store 42 recorded 3,980 unique visitors on 2025-01-07.,visitors,3980,people,42,2025-01-07,3980
+dwell_42_2025-01,Median dwell at Store 42 was 23 minutes during 2025-01.,median_dwell,23,minutes,42,2025-01,3200
+cel_topmuni_42_2025-01,Top home municipality for Store 42 in 2025-01 was Cambridge, MA (14% of devices).,cel_top_municipality,14,percent,42,2025-01,3150
+cross_42_compB_2025-05,12% of Store 42 visitors also visited Competitor B in 2025-05.,cross_visitation,12,percent,42,2025-05,5200
+path_pre_42_gas_60m,Before visiting Store 42, 9% of devices appeared at Gas/Convenience within 60 minutes.,pre_visit_gas,9,percent,42,2025-05,4800
+visitors_77_2025-01-06,Store 77 recorded 5,102 unique visitors on 2025-01-06.,visitors,5102,people,77,2025-01-06,5102
+dwell_77_2025-01,Median dwell at Store 77 was 18 minutes during 2025-01.,median_dwell,18,minutes,77,2025-01,4100
+cel_topmuni_77_2025-01,Top home municipality for Store 77 in 2025-01 was Somerville, MA (11% of devices).,cel_top_municipality,11,percent,77,2025-01,3900
+tiny_sample_42_2025-01-08,Store 42 recorded 12 unique visitors on 2025-01-08.,visitors,12,people,42,2025-01-08,12
