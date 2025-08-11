@@ -1,0 +1,5 @@
+# Cursor rules: keep RAG in /backend/rag.py; API in /backend/app.py.
+- Backend: FastAPI in backend/app.py
+- RAG logic & embeddings in backend/rag.py
+- Data ingestion in backend/ingest.py
+- Vector DB persists under backend/chroma (gitignored)
